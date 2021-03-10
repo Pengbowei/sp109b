@@ -12,7 +12,7 @@
 
 ## 環境安裝檢測
 
-``ˋ
+```
 pengbowei@pengbaiweideMacBook-Pro 00-hello % gcc
 clang: error: no input files
 pengbowei@pengbaiweideMacBook-Pro 00-hello % gcc hello.c -o hello
