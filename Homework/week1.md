@@ -1,7 +1,7 @@
 # 第一週課堂筆記
 
 ## 課堂教材
-[系統程式](http://programmermedia.org/root/%E9%99%B3%E9%8D%BE%E8%AA%A0/%E8%AA%B2%E7%A8%8B/%E7%B3%BB%E7%B5%B1%E7%A8%8B%E5%BC%8F/README.md）
+[系統程式](http://programmermedia.org/root/%E9%99%B3%E9%8D%BE%E8%AA%A0/%E8%AA%B2%E7%A8%8B/%E7%B3%BB%E7%B5%B1%E7%A8%8B%E5%BC%8F/README.md)
 [程式人媒體](http://programmermedia.org/root/%E7%A8%8B%E5%BC%8F%E4%BA%BA%E5%AA%92%E9%AB%94/）
 
 ## CPU分類
